@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/cold-brew.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2020-03-17T14:21:30-07:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4501432533071</id>
+    <published>2020-03-17T14:21:30-07:00</published>
+    <updated>2020-03-17T14:21:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/cold-brew-concentrate-946-ml"/>
+    <title>Cold Brew Concentrate (946 mL)</title>
+    <s:type></s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CBConcentrate4_1000x_a2efab74-b7bd-440b-a327-506b3e9f4093.jpg?v=1614900113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our cold brew coffee concentrate is 32 ounces of super smooth, premium coffee concentrate and all you have to do is ADD WATER.  This bottle makes one gallon of cold brew coffee, enough for you to drink for days or share with friends.  Made with our Bizzarri Blend, a medium-dark roast, 100% Arabica coffee.</span></p>
+<p><span>Instructions: Mix 32 ounces of cold brew concentrate with 96 ounces of cold filtered water. Serve over ice, and keep refrigerated. For smaller quantities, mix 1 part cold brew concentrate to 3 parts water. Adjust according to your tastes.</span></p>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4501432533071</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4327502348367</id>
+    <published>2019-10-29T12:09:22-07:00</published>
+    <updated>2019-10-29T12:09:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/nitro-cold-brew-10-x-240-ml"/>
+    <title>Nitro Cold Brew (10 x 240 mL)</title>
+    <s:type></s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/NitroColdBrew2_large_a7338f5b-7dcf-4876-b9c9-3a1825a8f9f6.jpg?v=1614900045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our nitrogen infused cold brew defies convention - smooth, creamy, refreshing and ready to drink.  Made with our Bizzarri Blend and filtered water, this premium cold brew has the classic notes of caramel and milk chocolate with subtle fruit and brightness.  Best served cold.</p>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4327502348367</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

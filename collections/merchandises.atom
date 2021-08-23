@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/merchandises.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2021-06-17T14:51:53-07:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6577402150991</id>
+    <published>2021-06-17T14:51:53-07:00</published>
+    <updated>2021-06-17T14:51:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-tea-porter-teapot-mug-set"/>
+    <title>Rishi Tea Porter, Teapot &amp; Mug Set</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/teaporterset.png?v=1623966615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This naturally elegant accessory was developed and designed in collaboration the Peg and Awl workshop in Philadelphia, each piece is handmade and individually crafted using wood sourced from trees felled by heavy storms around the country. This simple yet sophisticated piece is sure to elevate the standards of your tea experience with the perfect blend of beauty and function.</p>
+<p>The set includes the tea porter, one companion mug<a href="https://www.caffeumbria.ca/collections/accessories/products/rishi-companion-mug"> </a> and one 400 mL Simple Brew teapot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6577402150991</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">130.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547390627919</id>
+    <published>2021-03-26T09:47:46-07:00</published>
+    <updated>2021-03-26T09:47:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/logo-14-oz-mug"/>
+    <title>Logo 14 oz. Mug</title>
+    <s:type></s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/LTC_9632.jpg?v=1616777238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547390627919</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6537583362127</id>
+    <published>2021-03-02T15:24:40-08:00</published>
+    <updated>2021-03-02T15:24:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/bukobaba-organic-coconut-mct-with-lauric-acid"/>
+    <title>Bukobaba Organic Coconut MCT with Lauric Acid</title>
+    <s:type></s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/MCT.jpg?v=1614727481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bukobaba Coconut MCT is derived exclusively from organic coconuts and is an excellent source of 12-carbon lauric acid. When lauric acid is present in the body, it is converted into monolaurin, a monoglyceride compound which exhibits antiviral, antimicrobial, antiprotozoal, and antifungal properties. This compound promotes better immunity and healthier gut for better digestion and absorption of nutrients essential for our cells.<br><br>Bukobaba Coconut MCT is:<br>Keto, Vegan, &amp; Paleo Friendly; Palm Free; Sugar Free; No Cholesterol; No Preservatives; Trans Fat Free; Unflavoured; and, Unscented</p>
+<p><span data-mce-fragment="1">Known to:</span></p>
+<ul>
+<li><span data-mce-fragment="1">Boost energy</span></li>
+<li><span data-mce-fragment="1">Improve brain function</span></li>
+<li><span data-mce-fragment="1">Increase fat burning</span></li>
+<li>Promote healthy gut</li>
+</ul>
+<p>500 mL per bottle</p>
+<p>Try this easy Coconut MCT Coffee Recipe:<br></p>
+<ol>
+<li>Make a cup of Caffe Umbria coffee as usual.</li>
+<li>Add 1-3 teaspoons of Bukobaba MCT oil.</li>
+<li>Blend together using a milk frother or a blender until the coffee becomes frothy.</li>
+<li>Add warm <a href="https://www.caffeumbria.ca/collections/dairy-alternatives/products/pacific-barista-series-original-coconut-milk-32-oz">coconut milk</a> or <a href="https://www.caffeumbria.ca/collections/dairy-alternatives/products/pacific-barista-series-original-almond-milk-32-oz">almond milk</a> as an option.</li>
+</ol>
+<p>BUKOBABA MCT PERCENTAGES:<br><br>CAPRYLIC ACID (C8) 40% is the type of energy that converts into ketone energy fastest. It crosses the blood brain barrier (typically found in people with cognitive decline) to serve as energy for our brain which in effect makes us more alert and focused.<br><br>CAPRIC ACID (C10) 28% has strong antiviral and antimicrobial properties as it converts into monocaprin in the body, where it combats viruses and bacteria. Capric acid also increases energy expenditure, which contributes to losing fat and weight.<br><br>LAURIC ACID (C12) 32% has many health benefits. It decreases the stickiness of blood platelets and aids digestion by increasing motility (flow) of the stomach. Its secretions reduce cholesterol in blood and liver and increases the uptake of calcium.</p>
+<p><em>*The content provided is provided by Bukobaba and is intended for informational purposes only. </em><br data-mce-fragment="1"><em>We recommend that you read labels, warnings and directions of the product before use. </em><br data-mce-fragment="1"><em>Please consult your health care professional for dietary recommendations. <br data-mce-fragment="1"></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537583362127</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6536006271055</id>
+    <published>2021-02-25T11:01:59-08:00</published>
+    <updated>2021-02-25T11:01:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/teak-nonslip-tray"/>
+    <title>Teak Nonslip Tray</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/Tray_-_small_59ba177d-3e07-4296-8257-d7df41940d19.png?v=1614279673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.20 - 21.60
+            <a href="https://www.caffeumbria.ca/products/teak-nonslip-tray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Teak tray with nonslip coating.</p>
+<p><span style="text-decoration: underline;">Dimensions of trays</span> <br>Small: 8.8" x 4.8" <br>Medium: 8.8" x 10"</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6536006271055</id>
+      <title>Small</title>
+      <s:price currency="CAD">16.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6536006271055</id>
+      <title>Medium</title>
+      <s:price currency="CAD">21.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4871649230927</id>
+    <published>2021-02-17T12:11:13-08:00</published>
+    <updated>2021-02-17T12:11:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-tea-porter"/>
+    <title>Rishi Tea Porter</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/TeaPorter_L.jpg?v=1613592674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This naturally elegant accessory was developed and designed in collaboration the Peg and Awl workshop in Philadelphia, each piece is handmade and individually crafted using wood sourced from trees felled by heavy storms around the country. This simple yet sophisticated piece is sure to elevate the standards of your tea experience with the perfect blend of beauty and function.</p>
+<p>The Tea Porter fits a <a href="https://www.caffeumbria.ca/collections/accessories/products/rishi-companion-mug">Companion Mug </a>and a 400 mL <a href="https://www.caffeumbria.ca/collections/accessories/products/rishi-simple-brew-loose-leaf-teapot-400-ml">Simple Brew</a> or <a href="https://www.caffeumbria.ca/collections/accessories/products/rishi-sachet-teapot-400-ml">Sachet Teapot</a>.</p>
+<p>Companion Mug and Teapot sold separately.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4871649230927</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4793821397071</id>
+    <published>2021-02-17T11:50:24-08:00</published>
+    <updated>2021-02-17T11:50:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-simple-brew-loose-leaf-teapot"/>
+    <title>Rishi Simple Brew Loose Leaf Teapot</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/Teapot_400mL.png?v=1613593413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            28.00 - 42.00
+            <a href="https://www.caffeumbria.ca/products/rishi-simple-brew-loose-leaf-teapot">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Simple Brew teapot is a great way to enjoy a hot or iced cup of tea at home or at the office.  The built-in strainer keeps all of your tea in the pot for future steepings.  The Simple Brew teapot is also easy to clean, simply unscrew the filter from the lid and wash.</span></p>
+<p><span data-mce-fragment="1">400 mL <br>Height: 4" (not including lid)<br>Diameter: 4.5"<br>Volume: Approx. 400 ml / 13.5 oz</span></p>
+<p><span data-mce-fragment="1">600 mL<br>Height: 6" (not including lid)<br>Diameter: 4.5"<br>Volume: Approx. 600 ml / 20 oz</span></p>
+<p><span data-mce-fragment="1">1000 mL<br>Height: 8.75" (not including lid)<br>Diameter: 4.5"<br>Volume: Approx. 1000 ml / 33 oz</span></p>
+<p><span data-mce-fragment="1">Rishi’s Simple Brew teawares are made from borosilicate glass. Borosilicate glass is formulated with boron trioxide, which has the ability to perform without cracking under extreme temperatures. Due to the chemical construction of borosilicate glass, it is mechanically stronger, harder, and more scratch resistant than sodalime glass. In addition, borosilicate glass is chemically resistant, so no need to worry about the absorption of cleaners into the glassware, creating a safe brewer for teas.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4793821397071</id>
+      <title>400 mL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4793821397071</id>
+      <title>600 mL</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4793821397071</id>
+      <title>1000 mL</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4861264134223</id>
+    <published>2021-01-20T12:02:51-08:00</published>
+    <updated>2021-01-20T12:02:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-premium-sachet-sampler"/>
+    <title>Rishi Premium Sachet Sampler</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/RishiSampler.png?v=1613593317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Rishi's line of individually wrapped, organic tea sachets. Sample the world of tea in this compelling range of profiles, from the ancient tea classics to innovative botanical blends. The Premium Sachet Sampler contains 18 individually-wrapped sachets and makes the perfect gift for the tea lover on your list.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">Contains One of Each:</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Black Limon</span><br data-mce-fragment="1"><span data-mce-fragment="1">Blueberry Hibiscus</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chamomile Melody</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chili Mango</span><br data-mce-fragment="1"><span data-mce-fragment="1">Dandelion Detox</span><br data-mce-fragment="1"><span data-mce-fragment="1">Earl Grey</span><br data-mce-fragment="1"><span data-mce-fragment="1">English Breakfast</span><br data-mce-fragment="1"><span data-mce-fragment="1">Guayusa Cacao</span><br data-mce-fragment="1"><span data-mce-fragment="1">Jade Cloud</span><br data-mce-fragment="1"><span data-mce-fragment="1">Jasmine</span><br data-mce-fragment="1"><span data-mce-fragment="1">Masala Chai</span><br data-mce-fragment="1"><span data-mce-fragment="1">Matcha Super Green</span><br data-mce-fragment="1"><span data-mce-fragment="1">Peppermint</span><br data-mce-fragment="1"><span data-mce-fragment="1">Peppermint Sage</span><br data-mce-fragment="1"><span data-mce-fragment="1">Strawberry Tulsi</span><br data-mce-fragment="1"><span data-mce-fragment="1">Tangerine Ginger</span><br data-mce-fragment="1"><span data-mce-fragment="1">Turmeric Ginger</span><br data-mce-fragment="1"><span data-mce-fragment="1">Yuzu Peach Green</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4861264134223</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4850965545039</id>
+    <published>2020-12-30T10:30:34-08:00</published>
+    <updated>2020-12-30T10:30:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/logo-espresso-cup-saucer"/>
+    <title>Logo Espresso Cup &amp; Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/espressocup_1000x_fd49276b-9576-42f2-9ce4-7d4a1c5aa2d9.jpg?v=1609353035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Enjoy espresso at home with our logo espresso cup and saucer.  Made in Italy by IPA Porcellane, this is the classic espresso cup style used in cafés. 2oz cup with matching saucer.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4850965545039</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4844641517647</id>
+    <published>2020-12-30T09:29:42-08:00</published>
+    <updated>2020-12-30T09:29:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/coffee-mug-gift-set"/>
+    <title>Coffee &amp; Mug Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/Coffee_Mug.png?v=1607545062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.75 - 34.45
+            <a href="https://www.caffeumbria.ca/products/coffee-mug-gift-set">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bring the café experience home with our Coffee &amp; Mug Gift Set.  </span></p>
+<p><span data-mce-fragment="1">One 12oz bag of coffee (your choice of blend) and a beautiful logo 14 oz. mug.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Gusto Creama / Whole Bean</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Gusto Creama / Drip Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Gusto Creama / Espresso Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Gusto Creama / Percolator</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Gusto Creama / French Press</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Bizzarri / Whole Bean</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Bizzarri / Drip Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Bizzarri / Espresso Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Bizzarri / Percolator</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Bizzarri / French Press</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Arco Etrusco / Whole Bean</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Arco Etrusco / Drip Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Arco Etrusco / Espresso Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Arco Etrusco / Percolator</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Arco Etrusco / French Press</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Mezzanotte Decaf / Whole Bean</title>
+      <s:price currency="CAD">33.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Mezzanotte Decaf / Drip Grind</title>
+      <s:price currency="CAD">33.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Mezzanotte Decaf / Espresso Grind</title>
+      <s:price currency="CAD">33.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Mezzanotte Decaf / Percolator</title>
+      <s:price currency="CAD">33.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Mezzanotte Decaf / French Press</title>
+      <s:price currency="CAD">33.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Terra Sana / Whole Bean</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Terra Sana / Drip Grind</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Terra Sana / Espresso Grind</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Terra Sana / Percolator</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Terra Sana / French Press</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Grifo / Whole Bean</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Grifo / Drip Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Grifo / Espresso Grind</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Grifo / Percolator</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Grifo / French Press</title>
+      <s:price currency="CAD">32.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Leone / French Press</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Leone / Whole Bean</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Leone / Drip Grind</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Leone / Espresso Grind</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844641517647</id>
+      <title>Leone / Percolator</title>
+      <s:price currency="CAD">34.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4850444861519</id>
+    <published>2020-12-29T15:06:44-08:00</published>
+    <updated>2020-12-29T15:06:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/gift-box"/>
+    <title>Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/SamplerBox.png?v=1609282633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift box that can fit up to five 12 ounce bags.</p>
+<p>Perfect for the <a href="https://www.caffeumbria.ca/collections/accessories/products/coffee-sampler-pack-5-bags">Coffee Sampler Pack.</a></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4850444861519</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4844323504207</id>
+    <published>2020-12-24T09:03:20-08:00</published>
+    <updated>2020-12-24T09:03:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/coffee-sampler-pack-5-bags"/>
+    <title>Coffee Sampler Pack - 5 Bags</title>
+    <s:type></s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/5bagsampler.png?v=1607457391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Caffè Umbria 5 Bag Sampler Pack contains one 12 ounce bag of beans in each of our five </span><em data-mce-fragment="1">regular</em><span data-mce-fragment="1"> blends:</span></p>
+<ul>
+<li><span data-mce-fragment="1">Gusto Crema</span></li>
+<li><span data-mce-fragment="1">Bizzarri</span></li>
+<li><span data-mce-fragment="1">Arco Etrusco</span></li>
+<li><span data-mce-fragment="1">Terra Sana</span></li>
+<li><span data-mce-fragment="1">Grifo</span></li>
+</ul>
+<p><span data-mce-fragment="1"> An excellent way to try each Caffè Umbria blend. </span></p>
+<p><span data-mce-fragment="1">Our <a href="https://www.caffeumbria.ca/collections/accessories/products/gift-box">Gift Box</a> is also available for purchase.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844323504207</id>
+      <title>Whole Bean</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844323504207</id>
+      <title>Drip Grind</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844323504207</id>
+      <title>Espresso Grind</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844323504207</id>
+      <title>Percolator</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844323504207</id>
+      <title>French Press</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4844642730063</id>
+    <published>2020-12-15T13:00:16-08:00</published>
+    <updated>2020-12-15T13:00:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/17oz-h2go-force-water-bottle"/>
+    <title>17oz H2GO Force Water Bottle</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/H2GO.png?v=1607545192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This stainless steel double wall vacuum insulated water bottle will keep your drinks hot or cold. Rugged and attractive, t</span><span data-mce-fragment="1">he bottle is made from food grade 18/8 stainless steel and is free of BPA and Phthalates. White with silver griffin. Fits most cup holders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844642730063</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4844600295503</id>
+    <published>2020-12-09T10:16:58-08:00</published>
+    <updated>2020-12-09T10:16:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/caffe-umbria-gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/Giftcard.png?v=1607537380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.caffeumbria.ca/products/caffe-umbria-gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Only valid for online purchases.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844600295503</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844600295503</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844600295503</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4844600295503</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4793825263695</id>
+    <published>2020-09-29T13:08:28-07:00</published>
+    <updated>2020-09-29T13:08:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-sachet-teapot-400-ml"/>
+    <title>Rishi Sachet Teapot (400 mL)</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/Sachetteapot.jpg?v=1600708131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Sachet teapot is specialized for brewing and serving tea sachets.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4793825263695</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4798177149007</id>
+    <published>2020-09-29T13:08:15-07:00</published>
+    <updated>2020-09-29T13:08:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-companion-mug"/>
+    <title>Rishi Companion Mug (400 mL)</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CompanionMug.jpg?v=1601058074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1" mce-data-marked="1">Glass mug perfect to decant tea from the <a href="https://www.caffeumbria.ca/collections/accessories/products/rishi-simple-brew-loose-leaf-teapot-400-ml">Rishi Simple Brew Teapot</a> or the <a href="https://www.caffeumbria.ca/collections/accessories/products/rishi-sachet-teapot-400-ml">Rishi Sachet Teapot</a>.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4798177149007</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

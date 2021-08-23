@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/arco-etrusco-blend.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2020-04-15T09:31:57-07:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545141538895</id>
+    <published>2020-04-15T09:31:57-07:00</published>
+    <updated>2020-04-15T09:31:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/arco-etrusco-blend-portion-pack"/>
+    <title>Arco Etrusco Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_427c817c-4b52-42a4-96b8-2503ed84c399.jpg?v=1586968318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            31.45 - 94.25
+            <a href="https://www.caffeumbria.ca/products/arco-etrusco-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case). Each portion pack makes 12 cups of coffee.</p>
+<p> <strong>BLEND NOTES: </strong></p>
+<p><span>Named after the iconic arched entry to the Umbrian town of Perugia, Arco Etrusco is the darkest of our blends. Natural sugars found in the coffees caramelize when roasted to this depth, imparting a cane sugar sweetness and aroma. Created as a drip coffee this blend boasts a fudge-like body, low acidity, a persistent roasty aftertaste and characteristics of a sweet stout.</span></p>
+<p><span><strong>Characteristics:</strong> Sweet | Fudge | Cane Sugar | Smokey<br></span></p>
+<p><span><strong>Primary Origins:</strong> Brazil | Colombia | Mexico</span></p>
+<p><strong>Roast Level</strong>: <span>Dark Roast</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545141538895</id>
+      <title>12ct</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545141538895</id>
+      <title>36ct</title>
+      <s:price currency="CAD">94.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/287073773</id>
+    <published>2014-04-10T13:45:00-07:00</published>
+    <updated>2014-04-10T13:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/combo-arco-etrusco-blend-mezzanotte-decaf-blend-single-serve-k-cup"/>
+    <title>Combo Arco Etrusco Blend &amp; Mezzanotte Decaf Blend - Box of (24) Single Serve K-Cup®</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/ArcoKCup1_1000x_a7688041-3939-458c-bb48-de35e2213e65.jpg?v=1596052521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Arco Etrusco Blend - Dark Roast
+<p>Our boldest blend, now in a single serving cup.</p>
+Mezzanotte Decaf Blend - Medium Dark Roast, Decaffeinated
+<p>All the qualities of our signature blend, without the caffeine, now in a single serving cup.</p>
+<p>Combo pack of 2 boxes, 1 box each of Arco Etrusco blend and Mezzanotte blend, each box holds 12 single serving cups <span>(24 K-Cups total).</span></p>
+<p><span style="color: #ff0000;"><em>*NOTE: May not be compatible with Keurig 2.0. Please check your Keurig model before purchasing.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arco</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>K-Cup</s:tag>
+    <s:tag>Medium Dark Roast</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/287073773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/287059253</id>
+    <published>2014-04-10T13:23:00-07:00</published>
+    <updated>2014-04-10T13:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/arco-etrusco-blend-single-serve-k-cup"/>
+    <title>Arco Etrusco Blend - Box of (24) Single Serve K-Cup®</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/ArcoKCup1_1000x_6961b9d4-7247-4859-867b-d02127429951.jpg?v=1596052446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            26.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark Roast</p>
+<p>Our boldest blend, now in a single serving cup.<br>Combo pack of 2 boxes, each box holds 12 single serving cups (24 K-Cups total).</p>
+<p><span style="color: #ff0000;"><em>*NOTE: May not be compatible with Keurig 2.0. Please check your Keurig model before purchasing.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arco</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>K-Cup</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/287059253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227158849</id>
+    <published>2014-01-28T13:14:00-08:00</published>
+    <updated>2014-01-28T13:14:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/arco-etrusco-blend-1"/>
+    <title>Arco Etrusco Blend - Single Cup Pods</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU008a-ArcoSSPod-1_1000x_99145655-d603-4832-aa89-4f0c9e1174bc.jpg?v=1596052580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            18.00 - 89.60
+            <a href="https://www.caffeumbria.ca/products/arco-etrusco-blend-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark Roast</p>
+<p>Our new one-cup coffee pods produce a rich caffè crema in seconds using any one-cup coffee brewing system.</p>
+<p><strong>Arco Etrusco Blend - Dark Roast</strong></p>
+<p><span>Named after the iconic arched entry to the Umbrian town of Perugia, Arco Etrusco is the darkest of our blends. Natural sugars found in the coffees caramelize when roasted to this depth, imparting a cane sugar sweetness and aroma.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arco</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Single Cup</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227158849</id>
+      <title>30ct</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227158849</id>
+      <title>150ct</title>
+      <s:price currency="CAD">89.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227096197</id>
+    <published>2014-01-28T12:32:00-08:00</published>
+    <updated>2014-01-28T12:32:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/arco-etrusco-blend"/>
+    <title>Arco Etrusco Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU004a-Arco12oz_large_99fe05a0-9fe2-4aa6-842b-c3fb8c349564.jpg?v=1617299757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.50 - 99.00
+            <a href="https://www.caffeumbria.ca/products/arco-etrusco-blend">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark Roast - Heritage Blend | BEST SUITED FOR BREW COFFEE</p>
+<p>Our boldest blend offers a supple, full-flavored fusion of the finest coffees from South and Central America. Roasted darker to caramelize the flavors and impart a rich, natural sweetness. Named for the famous arched entry to the Umbrian town of Perugia, Arco Etrusco is roasted specifically for drip coffee preparation, but is also great in a French press.</p>
+<p><em><span style="line-height: 1.2;">*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arco</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

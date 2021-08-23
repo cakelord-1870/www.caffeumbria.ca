@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/gusto-crema.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2020-04-15T09:19:27-07:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545128595535</id>
+    <published>2020-04-15T09:19:27-07:00</published>
+    <updated>2020-04-15T09:19:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/gusto-crema-blend-portion-pack"/>
+    <title>Gusto Crema Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_359be68d-6477-4ae3-816b-f5744b878e8b.jpg?v=1586967781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            31.45 - 94.25
+            <a href="https://www.caffeumbria.ca/products/gusto-crema-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case).  Each portion pack makes 12 cups of coffee.</p>
+<p><strong>BLEND NOTES: </strong></p>
+<p><em>Un espresso perfetto.</em> Defined by a creamy body and delightful sweetness that lasts through the finish. Find milk chocolate and dried fig notes in this rounded and subtly complex coffee. This blend typifies the style of coffee roasted for generations by the Bizzarri family and is the featured espresso at Caffè Umbria cafés. Brewed drip-style it smooths to a rich and refined cup.</p>
+<p><strong>Characteristics:</strong> Creamy | Milk Chocolate | Cream | Dried Fig</p>
+<p><strong>Primary Origins:</strong> Brazil | Colombia | Guatemala</p>
+<p><strong>Roast Level</strong>: Medium Roast</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545128595535</id>
+      <title>12ct</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545128595535</id>
+      <title>36ct</title>
+      <s:price currency="CAD">94.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227167025</id>
+    <published>2014-01-28T13:25:00-08:00</published>
+    <updated>2014-01-28T13:25:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/gusto-crema-blend-espresso-pods"/>
+    <title>Gusto Crema Blend - ESE Espresso Pods</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU_gusto_crema_pods_1000x_083a1398-4a2e-4596-95c3-f8798ea3cd36.png?v=1596052662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            18.00 - 89.60
+            <a href="https://www.caffeumbria.ca/products/gusto-crema-blend-espresso-pods">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single-serving espresso pods offer the same great coffee with the convenience of a pod. Espresso pods can be used in almost all home and commercial espresso machines. <br></p>
+<p><small><b>Gusto Crema Blend - Medium Roast</b><br></small></p>
+<p><i>Un espresso perfetto.  </i>Defined by a creamy body and delightful sweetness that lasts through the finish.  Find milk chocolate and dried fig notes in this rounded and subtly complex coffee.  This blend typifies the style of coffee roasted for generations by the Bizzarri family and is the featured espresso at Caffè Umbria cafes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Espresso Pod</s:tag>
+    <s:tag>Gusto</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227167025</id>
+      <title>30ct</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227167025</id>
+      <title>150ct</title>
+      <s:price currency="CAD">89.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/204090981</id>
+    <published>2014-01-03T09:24:00-08:00</published>
+    <updated>2014-01-03T09:24:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/gusto-creama"/>
+    <title>Gusto Crema Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU001a-Gusto12oz_large_f72ebb6c-92a3-4001-a6e0-360410c59e6f.jpg?v=1617300006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.50 - 99.00
+            <a href="https://www.caffeumbria.ca/products/gusto-creama">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Roast - Classic Espresso | CLASSIC ITALIAN ESPRESSO</p>
+<p>The perfect espresso blend producing a thick golden crema and a rich, distinctly Italian flavor profile. The blending of Brazilian and Central American beans gives this coffee a fragrant aroma and sweet finish. Also excellent as a mild to medium bodied brewed coffee.</p>
+<p><em>*<em><span>Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gusto</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

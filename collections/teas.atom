@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/teas.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2021-05-28T13:58:14-07:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6571782864975</id>
+    <published>2021-05-28T13:58:14-07:00</published>
+    <updated>2021-05-28T13:58:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-dandelion-detox-loose-leaf-tube-80-g"/>
+    <title>Rishi Dandelion Detox Loose Leaf Tube  (80 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/DandelionDetox_LooseLeafTube_1.jpg?v=1622235435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Dandelion root is an herb that is traditionally known to support detoxification. Cinnamon energizes the blend, while a hint of citrus provides quenching replenishment to restore balance.</p>
+<p data-mce-fragment="1">Tasting Notes: Roasted dandelion root provides a bittersweet cacao profile, which is enriched with fermented Pu'er and oolong teas. Saigon cinnamon simmers with sweetness, while lemon provides cleansing balance. Finishes with uplifting hints of rose geranium.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6571782864975</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6570043441231</id>
+    <published>2021-05-27T08:04:59-07:00</published>
+    <updated>2021-05-27T08:04:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-turmeric-ginger-chai-concentrate-32-oz"/>
+    <title>Rishi Organic Turmeric Ginger Chai Concentrate (32 oz.)</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/TurmericGingerChai.png?v=1621547723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enlivening and pungent turmeric with zesty ginger and fragrant lemongrass.<br></p>
+<p><span>INGREDIENTS:<br>Filtered water, organic cane sugar, organic ginger root, organic turmeric root, organic lemongrass, organic lemon juice concentrate, organic black pepper.<br></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6570043441231</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4862624137295</id>
+    <published>2021-04-15T14:06:33-07:00</published>
+    <updated>2021-04-15T14:06:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/copy-of-rishi-organic-turmeric-ginger"/>
+    <title>Rishi Organic Turmeric Mango</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/RishiTurmericMango.png?v=1611338048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This tropical take on turmeric features juicy mango, tangy-sweet pineapple, fragrant yuzu citrus with aromatic top notes of jasmine green tea and makrut lime.  Phenomenal both hot or iced.</p>
+<p>Tasting Notes: A tropical take on turmeric featuring luscious and juicy Sri Lanka mango, tangy sweet pineapple, fragrant yuzu citrus peel and exotic top notes of jasmine and kaffir lime.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4862624137295</id>
+      <title>15ct</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6550481862735</id>
+    <published>2021-04-01T12:01:30-07:00</published>
+    <updated>2021-04-01T12:01:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-elderberry-healer-loose-leaf-tube-70-g"/>
+    <title>Rishi Elderberry Healer Loose Leaf Tube  (70 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/ElderberryHealer_LooseLeafTube_1.jpg?v=1617303655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>This organic botanical blend offers a soothing, cordial-like body that highlights immune-boosting elderberry. Elderberry has been used for millennia in folk remedies and has an elegant tannin structure and sumptuous flavor. Organic ginger root fortifies the blend; organic licorice root lends a natural sweetness, while essential oil of grapefruit provides a pleasant brightness at the finish.</span></p>
+<div class="attribute-header no-toggler">Tasting Notes: A rich cup highlighting the cordial like body and immune-boosting elderberry balanced with ginger and licorice root.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6550481862735</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6550481469519</id>
+    <published>2021-04-01T12:00:20-07:00</published>
+    <updated>2021-04-01T12:00:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-quince-eucalyptus-loose-leaf-tube-70-g"/>
+    <title>Rishi Quince Eucalyptus Loose Leaf Tube  (70 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/QuinceEucalyptus_LooseLeafTube_1.jpg?v=1617303581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Quince Eucalyptus was created especially for cold winters. This limited edition seasonal Herb Lab Series highlights sweet quince, refreshing eucalyptus, spicy ginger, punchy black pepper and vibrant yuzu. Don't let the winter doldrums get you down!</span></p>
+<p data-mce-fragment="1"><span>Tasting Notes: Inviting eucalyptus and sweet, honey like quince charm even the coldest of days with this soothing seasonal blend.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6550481469519</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6550476095567</id>
+    <published>2021-04-01T11:43:16-07:00</published>
+    <updated>2021-04-01T11:43:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-valerian-dream-loose-leaf-tube-80-g"/>
+    <title>Rishi Valerian Dream Loose Leaf Tube  (80 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/ValerianDream_LooseLeafTube_1.jpg?v=1617302546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Valerian Dream's wonderfully funky yet floral fragrance uses complementary nervine tonic herbs like cardamom and fennel that are known to aid in relaxation. Reset after a long day with this blend of botanicals designed to soothe the mind and body. Valerian is sweet with a perfumed, musky aroma and has been used for centuries in Europe as a bedtime tea. Dream away.</p>
+<p data-mce-fragment="1">Tasting Notes: Calming botanical and aromatic flowers with the relaxing effects of valerian root.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6550476095567</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6550475505743</id>
+    <published>2021-04-01T11:41:44-07:00</published>
+    <updated>2021-04-01T11:41:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-reishi-mushroom-hero-loose-leaf-tube-80-g"/>
+    <title>Rishi Reishi Mushroom Hero Loose Leaf Tube  (80 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/ReishiMushroomHero_LooseLeafTube_1.jpg?v=1617302436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Don your cape and prepare for this powerful blend of reishi and maitake mushrooms, rich cocoa nibs and detoxifying roots. In East Asian herbal medicine traditions, reishi mushroom and astragalus root are known as essential adaptogenic herbs that alleviate stress and promote vitality for the whole body. Cocoa and roasted roots provide an impeccable balance that makes for a rich and functional mushroom tea blend.</p>
+<p data-mce-fragment="1">Tasting Notes: Rich cocoa and roasted roots bring adaptogenic reishi mushrooms to life</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6550475505743</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6550475046991</id>
+    <published>2021-04-01T11:39:47-07:00</published>
+    <updated>2021-04-01T11:39:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-spicy-masala-chai-loose-leaf-tube-80-g"/>
+    <title>Rishi Spicy Masala Chai Loose Leaf Tube  (80 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/SpicyMasalaChai_LooseLeafTube_1.jpg?v=1617302303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Do you love your chai hot and extra spicy? Spicy Masala Chai is designed for you. We added cayenne chili flakes in addition to a double concentration of ginger to deliver a thoroughly warming chai experience. Classic aromatic accents of cloves, cinnamon and cardamom add rich depth.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6550475046991</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6549388886095</id>
+    <published>2021-03-29T15:42:58-07:00</published>
+    <updated>2021-03-29T15:42:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-turmeric-ginger-loose-leaf-tube-80-g"/>
+    <title>Rishi Turmeric Ginger Loose Leaf Tube  (80 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/TurmericGinger_LooseLeafTube_1.jpg?v=1617057754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The awesome, centering energy of golden turmeric root is enhanced by strengthening licorice root and zesty ginger in this Ayurveda inspired blend. Fragrant lemongrass and citrus peels create a lemon drop candy sweetness that balances the pungency of the roots. The combination of turmeric, ginger, lemon and honey is an ancient herbal recipe for longevity, stamina and balance.</p>
+<p><span data-mce-fragment="1">Tasting Notes: An enlivening blend of golden turmeric with spicy ginger and zesty citrus.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6549388886095</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6549388755023</id>
+    <published>2021-03-29T15:42:03-07:00</published>
+    <updated>2021-03-29T15:42:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-matcha-super-green-loose-leaf-tube-70-g"/>
+    <title>Rishi Matcha Super Green Loose Leaf Tube  (70 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/MatchaSuperGreen_LooseLeafTube_1.jpg?v=1617057722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Matcha Super Green is named for its vivid emerald green infusion and bountiful natural energy provided by pure Japanese matcha. This signature Rishi flavor combines organic sencha and organic stone-ground matcha green teas grown in the fertile volcanic soils in southern Japan's Kyushu region.</p>
+<p>Tasting Notes: Rishi's greenest green, with vibrantly fresh matcha and deeply sweet sencha.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6549388755023</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6549388492879</id>
+    <published>2021-03-29T15:41:17-07:00</published>
+    <updated>2021-03-29T15:41:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-lavender-mint-loose-leaf-tube-80-g"/>
+    <title>Rishi Lavender Mint Loose Leaf Tube  (80 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/LavenderMint_LooseLeafTube_1.jpg?v=1617057655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This rejuvenating blend features sweet peppermint, clarifying sage and calming lavender. A hint of licorice root soothes the throat and elevates the refreshing spa aromatics of the herbs. A cup of perfect tranquility.</p>
+<p>Tasting Notes: Soothing mint, sage and lavender in perfect harmony</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6549388492879</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6549388394575</id>
+    <published>2021-03-29T15:40:28-07:00</published>
+    <updated>2021-03-29T15:40:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-earl-grey-loose-leaf-tube-80-g"/>
+    <title>Rishi Earl Grey Loose Leaf Tube  (80 g)</title>
+    <s:type></s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/EarlGrey_LooseLeafTube_1.jpg?v=1617057629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This classic black tea is the namesake of Charles Grey, Britain's Prime Minister during the 1830's. After saving the life of a Chinese nobleman, the Earl Grey received a gift of citrus blossom-scented tea traditionally known as Tai Tai Cha. Tea salons throughout Europe replicated this blend by "perfuming" black teas with the aromatic oil of Italian bergamot oranges. Thus, a timeless tea was born.</p>
+<p data-mce-fragment="1">Tasting Notes: Full bodied and smooth with the enlivening floral character of real bergamot citrus.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6549388394575</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547209519183</id>
+    <published>2021-03-25T14:23:45-07:00</published>
+    <updated>2021-03-25T14:23:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-wild-berry-hibiscus-iced-tea"/>
+    <title>Rishi Organic Wild Berry Hibiscus Iced Tea</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/wildberry.png?v=1616706800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            68.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet forest berries with tart and refreshing hibiscus.</p>
+<p>Ingredients: Organic hibiscus flowers, organic elderberries, organic rosehips, natural blackberry flavor, essential orange oil.</p>
+<p>1 Gallon Portion: 35g <br>Natural Fiber Filter Bags <br>24 Bags per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547209519183</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">68.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547209027663</id>
+    <published>2021-03-25T14:23:44-07:00</published>
+    <updated>2021-03-25T14:23:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-tangerine-white-iced-tea"/>
+    <title>Rishi Organic Tangerine White Iced Tea</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/tangerinewhite.png?v=1616706725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            68.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Exquisite white tea with juicy citrus.</p>
+<p>Ingredients: Organic lemongrass, organic white tea, organic turmeric, organic orange<br>peel, essential tangerine oil, natural passionfruit flavor, natural pineapple flavor.</p>
+<p>1 Gallon Portion: 30g <br>Natural Fiber Filter Bags <br>24 Bags per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547209027663</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">68.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547208601679</id>
+    <published>2021-03-25T14:23:44-07:00</published>
+    <updated>2021-03-25T14:23:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-peach-black-iced-tea"/>
+    <title>Rishi Organic Peach Black Iced Tea</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/peachblack.png?v=1616706555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Succulent, sweet black tea infused with peach.</p>
+<p>Ingredients: Organic black tea, natural peach flavour</p>
+<p>1 Gallon Portion: 35g <br>Natural Fiber Filter Bags <br>24 Bags per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547208601679</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547207684175</id>
+    <published>2021-03-25T14:23:44-07:00</published>
+    <updated>2021-03-25T14:23:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-classic-black-iced-tea"/>
+    <title>Rishi Organic Classic Black Iced Tea</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/classicblack.png?v=1616706470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            52.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Traditional, pure tea with a malty and mellow sweetness.</p>
+<p>Ingredients: Organic black tea</p>
+<p>1 Gallon Portion: 30g <br>Natural Fiber Filter Bags <br>24 Bags per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547207684175</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547201753167</id>
+    <published>2021-03-25T14:23:43-07:00</published>
+    <updated>2021-03-25T14:23:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-earl-grey-iced-tea"/>
+    <title>Rishi Organic Earl Grey Iced Tea</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/earlgreyicedtea.png?v=1616704111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            68.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smooth and lively black tea with the citrusy, floral aromas of bergamot.</p>
+<p>Ingredients: Organic black tea, essential bergamot oil.</p>
+<p>1 Gallon Portion: 30g <br>Natural Fiber Filter Bags <br>24 Bags per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547201753167</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">68.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547201458255</id>
+    <published>2021-03-25T14:23:43-07:00</published>
+    <updated>2021-03-25T14:23:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-summer-lemon-iced-tea"/>
+    <title>Rishi Organic Summer Lemon Iced Tea</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/summerlemon.png?v=1616704038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lively lemon with full bodied black tea.</p>
+<p>Ingredients: Organic black tea, essential lemon oil.</p>
+<p>1 Gallon Portion: 30g <br>Natural Fiber Filter Bags <br>24 Bags per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547201458255</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6547201392719</id>
+    <published>2021-03-25T14:23:18-07:00</published>
+    <updated>2021-03-25T14:23:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/rishi-organic-blueberry-iced-tea"/>
+    <title>Rishi Organic Blueberry Iced Tea</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Rishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/blueberryicedtea.png?v=1616703970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A juicy berry blend with rooibos &amp; herbs.</p>
+<p>Ingredients: Organic hibiscus, organic rooibos, natural blueberry and strawberry flavors.</p>
+<p>1 Gallon Portion: 30g <br>Natural Fiber Filter Bags <br>24 Bags per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6547201392719</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6537936502863</id>
+    <published>2021-03-03T15:57:17-08:00</published>
+    <updated>2021-03-03T15:57:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/paisley-organic-tart-meyer-lemon"/>
+    <title>Paisley Organic Tart Meyer Lemon</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Two Leaves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PaisleyTartMeyerLemon.png?v=1614812666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Two Leaves<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            7.99 - 43.00
+            <a href="https://www.caffeumbria.ca/products/paisley-organic-tart-meyer-lemon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lemons may be tart, but Meyer lemons combine tart with sweet and floral flavors.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Teas</s:tag>
+    <s:tag>Two Leaves</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537936502863</id>
+      <title>Box of 20 sachets</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537936502863</id>
+      <title>Box of 120 sachets</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6537936339023</id>
+    <published>2021-03-03T15:56:33-08:00</published>
+    <updated>2021-03-03T15:56:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/paisley-organic-tart-berry"/>
+    <title>Paisley Organic Tart Berry</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Two Leaves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PaisleyTartBerry.png?v=1614812630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Two Leaves<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            7.99 - 43.00
+            <a href="https://www.caffeumbria.ca/products/paisley-organic-tart-berry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This tart tea is a mashup of hibiscus – for that Cranberry-like flavor – and berries for a juicy, tart twist.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Teas</s:tag>
+    <s:tag>Two Leaves</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537936339023</id>
+      <title>Box of 20 sachets</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537936339023</id>
+      <title>Box of 120 sachets</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6537934274639</id>
+    <published>2021-03-03T15:13:45-08:00</published>
+    <updated>2021-03-03T15:13:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/paisley-organic-sencha-green"/>
+    <title>Paisley Organic Sencha Green</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Two Leaves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PaisleySenchaGreen.png?v=1614812425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Two Leaves<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            6.99 - 37.75
+            <a href="https://www.caffeumbria.ca/products/paisley-organic-sencha-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This high-quality, Japanese style tea is mildly astringent, bright, and slightly vegetal in flavor.</span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Teas</s:tag>
+    <s:tag>Two Leaves</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537934274639</id>
+      <title>Box of 20 sachets</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537934274639</id>
+      <title>Box of 120 sachets</title>
+      <s:price currency="CAD">37.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6537935781967</id>
+    <published>2021-03-03T15:13:19-08:00</published>
+    <updated>2021-03-03T15:13:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/paisley-organic-peppermint"/>
+    <title>Paisley Organic Peppermint</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Two Leaves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PaisleyPeppermint.png?v=1614812503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Two Leaves<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            6.99 - 37.75
+            <a href="https://www.caffeumbria.ca/products/paisley-organic-peppermint">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This caffeine-free organic peppermint is 100% pure and full of flavor.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Teas</s:tag>
+    <s:tag>Two Leaves</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537935781967</id>
+      <title>Box of 20 sachets</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537935781967</id>
+      <title>Box of 120 sachets</title>
+      <s:price currency="CAD">37.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6537935061071</id>
+    <published>2021-03-03T15:12:47-08:00</published>
+    <updated>2021-03-03T15:12:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/paisley-organic-ginger-green"/>
+    <title>Paisley Organic Ginger Green</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Two Leaves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PaisleyGingerGreen.png?v=1614812456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Two Leaves<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            6.99 - 37.75
+            <a href="https://www.caffeumbria.ca/products/paisley-organic-ginger-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Organic ginger, lemongrass, and licorice root make this a snappy, bright, slightly sweet green tea.</span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Teas</s:tag>
+    <s:tag>Two Leaves</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537935061071</id>
+      <title>Box of 20 sachets</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537935061071</id>
+      <title>Box of 120 sachets</title>
+      <s:price currency="CAD">37.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6537932537935</id>
+    <published>2021-03-03T15:12:24-08:00</published>
+    <updated>2021-03-03T15:12:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/paisley-organic-english-breakfast"/>
+    <title>Paisley Organic English Breakfast</title>
+    <s:type>Teas</s:type>
+    <s:vendor>Two Leaves</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PaisleyEnglishBreakfast.png?v=1614812006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Two Leaves<br>
+        <strong>Type: </strong>Teas<br>
+        <strong>Price: </strong>
+            7.99 - 43.00
+            <a href="https://www.caffeumbria.ca/products/paisley-organic-english-breakfast">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Organic English Breakfast is a classic blend of rich Indian teas. It boasts a bold flavor that holds up well to milk.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Teas</s:tag>
+    <s:tag>Two Leaves</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537932537935</id>
+      <title>Box of 20 sachets</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6537932537935</id>
+      <title>Box of 120 sachets</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/single-origin.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2020-12-21T10:51:45-08:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4848294297679</id>
+    <published>2020-12-21T10:51:45-08:00</published>
+    <updated>2020-12-21T10:51:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/cupping-room-collection-colombia-la-orquidea"/>
+    <title>Cupping Room Collection - Colombia La Orquidea</title>
+    <s:type></s:type>
+    <s:vendor>Caffè Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CRCColombia_1000x_f52ef7f1-ac94-463e-9aef-8656c816bf0a.jpg?v=1608576706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffè Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Like it's namesake (orquidea means orchid in Spanish), this coffee has floral aromas with notes of tangerine and chocolate. This coffee comes from the Tolima region of Colombia, an area that has been an untapped source of specialty coffee. Although the Asoprocafes cooperative has been instrumental in bringing this coffee to market, each producer cultivates and processes their own crops. Ripe cherries are handpicked, washed and de-pulped, fermented then laid out on patios to dry in the sun.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">REGION</strong>: Tolima<br data-mce-fragment="1"><strong data-mce-fragment="1">MUNICIPALITY:</strong> Planadas<br data-mce-fragment="1"><strong data-mce-fragment="1">PRODUCER</strong>: Asoprocafes<br data-mce-fragment="1"><strong data-mce-fragment="1">PROCESS:</strong><span data-mce-fragment="1"> </span>Washed<br data-mce-fragment="1"><strong data-mce-fragment="1">ROAST LEVEL:</strong>  Light<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">CHARACTERISTICS:</strong> Tangerine, Chocolate, Floral</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">RECOMMENDED BREW METHODS:</strong><span data-mce-fragment="1"> </span>Hario v60 | Chemex | Aeropress</p>
+<p data-mce-fragment="1"><strong><span style="color: #2b00ff;"><em data-mce-fragment="1">﻿This is a limited edition rotating coffee.</em></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4848294297679</id>
+      <title>12 oz.</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

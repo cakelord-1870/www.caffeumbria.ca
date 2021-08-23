@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/bizzarri-blend.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2021-06-25T10:07:19-07:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/6565809717327</id>
+    <published>2021-06-25T10:07:19-07:00</published>
+    <updated>2021-06-25T10:07:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/compostable-bizzarri-blend-nespresso-compatible-capsules"/>
+    <title>Compostable Bizzarri Blend Nespresso Compatible Capsules</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/BizzarriCompostableNespresso.png?v=1620669318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            21.99 - 94.00
+            <a href="https://www.caffeumbria.ca/products/compostable-bizzarri-blend-nespresso-compatible-capsules">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Caffè Umbria capsules are compatible with and can be used in OriginalLine Nespresso® machines. (Not compatible with VertuoLine).</p>
+<p>Capsules are now compostable!<br>Certified by Biodegradable Products Institute.</p>
+<p><b>Bizzarri Blend - Medium Dark Roast</b><br></p>
+<p>﻿Our signature blend is a celebration of our blending expertise. Crafted to pair uniquely with the sweet characteristics of milk and cream, it has a resonant body and deep fruity acidity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Capsules</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Gusto</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Nespresso</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6565809717327</id>
+      <title>20ct / box</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/6565809717327</id>
+      <title>100ct / case</title>
+      <s:price currency="CAD">94.00</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545136263247</id>
+    <published>2020-04-15T09:28:19-07:00</published>
+    <updated>2020-04-15T09:28:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/bizzarri-blend-portion-pack"/>
+    <title>Bizzarri Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_a41285e1-0799-43f3-952e-376ce07ce818.jpg?v=1586968100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            31.45 - 94.25
+            <a href="https://www.caffeumbria.ca/products/bizzarri-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case).  Each portion pack makes 12 cups of coffee.</p>
+<p> <strong>BLEND NOTES: </strong></p>
+<p><span>This blend was crafted to pair uniquely with the sweet characteristics of milk and cream.  A resonant body and deep fruity acidity helps this coffee stay structured when sipped “con latte”.  Taste molasses, pecan and hints of banana in this Golden Bean North America medal-winning coffee.  We love this blend for its versatility so brew in the style of your preference.</span></p>
+<p><span><strong>Characteristics:</strong> Harmonious | Molasses | Pecan | Banana<br></span></p>
+<p><span><strong>Primary Origins:</strong> Peru | El Salvador | Uganda</span></p>
+<p><strong>Roast Level</strong>: Medium-Dark Roast</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545136263247</id>
+      <title>12ct</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545136263247</id>
+      <title>36ct</title>
+      <s:price currency="CAD">94.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2296</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4501432533071</id>
+    <published>2020-03-17T14:21:30-07:00</published>
+    <updated>2020-03-17T14:21:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/cold-brew-concentrate-946-ml"/>
+    <title>Cold Brew Concentrate (946 mL)</title>
+    <s:type></s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CBConcentrate4_1000x_a2efab74-b7bd-440b-a327-506b3e9f4093.jpg?v=1614900113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our cold brew coffee concentrate is 32 ounces of super smooth, premium coffee concentrate and all you have to do is ADD WATER.  This bottle makes one gallon of cold brew coffee, enough for you to drink for days or share with friends.  Made with our Bizzarri Blend, a medium-dark roast, 100% Arabica coffee.</span></p>
+<p><span>Instructions: Mix 32 ounces of cold brew concentrate with 96 ounces of cold filtered water. Serve over ice, and keep refrigerated. For smaller quantities, mix 1 part cold brew concentrate to 3 parts water. Adjust according to your tastes.</span></p>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4501432533071</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4500035436623</id>
+    <published>2020-03-16T13:33:09-07:00</published>
+    <updated>2020-03-16T13:33:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/bizzarri-blend-case-of-20-5-cup-drip-coffee-4-cup-french-press-portion-pack"/>
+    <title>Bizzarri Blend - Case of (20) 5-Cup Drip Coffee / 4-Cup French Press Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_6aca102f-1662-4ba5-94cb-d17f6b9a5228.jpg?v=1596052619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Medium Dark Roast</span></p>
+<p><span>Our coffee portion pack will brew 5 cups of drip coffee or 4 cups French press.</span></p>
+<p><span>Each case contains 20 one-ounce portion packs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4500035436623</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4327502348367</id>
+    <published>2019-10-29T12:09:22-07:00</published>
+    <updated>2019-10-29T12:09:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/nitro-cold-brew-10-x-240-ml"/>
+    <title>Nitro Cold Brew (10 x 240 mL)</title>
+    <s:type></s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/NitroColdBrew2_large_a7338f5b-7dcf-4876-b9c9-3a1825a8f9f6.jpg?v=1614900045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our nitrogen infused cold brew defies convention - smooth, creamy, refreshing and ready to drink.  Made with our Bizzarri Blend and filtered water, this premium cold brew has the classic notes of caramel and milk chocolate with subtle fruit and brightness.  Best served cold.</p>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4327502348367</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/204116365</id>
+    <published>2014-01-03T10:33:00-08:00</published>
+    <updated>2014-01-03T10:33:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/bizzari"/>
+    <title>Bizzarri Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU003a-Bizzarri12oz_large_0da8e24f-0b8b-47b0-8bea-5273ef78c4d9.jpg?v=1617299876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.50 - 99.00
+            <a href="https://www.caffeumbria.ca/products/bizzari">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.2;">Medium Dark Roast - Signature Blend | FOR ESPRESSO OR BREWED COFFEE</span></p>
+<p>This signature blend is a celebration of our Italian blending expertise. Beans from Africa and Central America create the complexity of this elegant and versatile blend, perfect as an espresso and for milk based drinks. Also recommended as an all-day brewed coffee with its rich complexity and lingering finish.</p>
+<p><em><span>*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bizzari</s:tag>
+    <s:tag>Medium Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

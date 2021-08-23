@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/mezzanotte-decaf-blend.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2020-12-23T15:15:46-08:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4849003561039</id>
+    <published>2020-12-23T15:15:46-08:00</published>
+    <updated>2020-12-23T15:15:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/mezzanotte-decaf-blend-case-of-20-5-cup-drip-coffee-4-cup-french-press-portion-pack"/>
+    <title>Mezzanotte Decaf Blend - Case of (20) 5-Cup Drip Coffee / 4-Cup French Press Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PP-DecafEdited.jpg?v=1608827506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            27.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Medium Dark Roast</span></p>
+<p><span>Our coffee portion pack will brew 5 cups of drip coffee or 4 cups French press.</span></p>
+<p><span>Each case contains 20 one-ounce portion packs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4849003561039</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545143275599</id>
+    <published>2020-04-15T09:33:12-07:00</published>
+    <updated>2020-04-15T09:33:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/mezzanotte-blend-portion-pack"/>
+    <title>Mezzanotte Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PP-Decaf_1000x_1bc0cfb8-f8c2-4081-b754-c13335c9ef92.jpg?v=1586968409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            32.51 - 97.52
+            <a href="https://www.caffeumbria.ca/products/mezzanotte-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case). Each portion pack makes 12 cups of coffee.</p>
+<p><strong>BLEND NOTES: </strong><br></p>
+<p><span>In Italian, </span><em>mezzanotte</em><span> means “midnight”.This creamy-bodied decaffeinated coffee possesses low acidity, notes of milk chocolate and nut with hints of black tea. We savor this coffee “</span><em>con il dolce</em><span>”, steeped in a french press then paired with complementary flavors of chocolate or hazelnut.</span></p>
+<p><span><strong>Characteristics:</strong> Smooth | Milk Chocolate | Hazelnut | Black Tea<br></span></p>
+<p><span><strong>Primary Origins:</strong> Colombia | Costa Rica</span></p>
+<p><strong>Roast Level</strong>: <span>Medium-Dark Roast</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545143275599</id>
+      <title>12ct</title>
+      <s:price currency="CAD">32.51</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545143275599</id>
+      <title>36ct</title>
+      <s:price currency="CAD">97.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/5336198087</id>
+    <published>2016-02-24T10:28:00-08:00</published>
+    <updated>2016-02-24T10:28:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/copy-of-gusto-crema-blend-single-serve-espresso-capsules-20-capsules"/>
+    <title>Mezzanotte Blend Nespresso Compatible Capsules</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU035D-MezzaNespressoBoxF_large_c3f25cb9-e5cd-448b-9f11-ff07a51e2c88.jpg?v=1493048983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            16.59 - 69.72
+            <a href="https://www.caffeumbria.ca/products/copy-of-gusto-crema-blend-single-serve-espresso-capsules-20-capsules">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><small><span data-mce-fragment="1">Our Caffè Umbria capsules are compatible with and can be used in OriginalLine Nespresso® machines. (Not compatible with VertuoLine). </span><br></small></p>
+<p><b>Mezzanotte Blend - Medium-Dark Roast</b></p>
+<p>In Italian, <i>mezzanotte</i> means “midnight”.  This creamy-bodied decaffeinated coffee possesses low acidity, notes of milk chocolate and nut with hints of black tea.  An authentic Italian coffee without the caffeine and great any time of the day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Capsules</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Medium Dark Roast</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:tag>Nespresso</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/5336198087</id>
+      <title>20ct / box</title>
+      <s:price currency="CAD">16.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/5336198087</id>
+      <title>100ct / case</title>
+      <s:price currency="CAD">69.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/287073773</id>
+    <published>2014-04-10T13:45:00-07:00</published>
+    <updated>2014-04-10T13:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/combo-arco-etrusco-blend-mezzanotte-decaf-blend-single-serve-k-cup"/>
+    <title>Combo Arco Etrusco Blend &amp; Mezzanotte Decaf Blend - Box of (24) Single Serve K-Cup®</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/ArcoKCup1_1000x_a7688041-3939-458c-bb48-de35e2213e65.jpg?v=1596052521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Arco Etrusco Blend - Dark Roast
+<p>Our boldest blend, now in a single serving cup.</p>
+Mezzanotte Decaf Blend - Medium Dark Roast, Decaffeinated
+<p>All the qualities of our signature blend, without the caffeine, now in a single serving cup.</p>
+<p>Combo pack of 2 boxes, 1 box each of Arco Etrusco blend and Mezzanotte blend, each box holds 12 single serving cups <span>(24 K-Cups total).</span></p>
+<p><span style="color: #ff0000;"><em>*NOTE: May not be compatible with Keurig 2.0. Please check your Keurig model before purchasing.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arco</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>K-Cup</s:tag>
+    <s:tag>Medium Dark Roast</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/287073773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/287061297</id>
+    <published>2014-04-10T13:33:00-07:00</published>
+    <updated>2014-04-10T13:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/mezzanotte-blend-single-serve-k-cup"/>
+    <title>Mezzanotte Decaf Blend - Box of (24) Single Serve K-Cup</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU027b-MezzaKCUp-2_1000x_6ede3d8c-55a7-463b-99d3-4564ca250999.jpg?v=1596052487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            27.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Medium Dark Roast, Decaffeinated</span></p>
+<p>All the qualities of our signature blend, without the caffeine, now in a single serving cup. <span>Combo pack of 2 boxes, each box holds 12 single serving cups <span>(24 K-Cups total).</span></span></p>
+<p><span style="color: #ff0000;"><em>*NOTE: May not be compatible with Keurig 2.0. Please check your Keurig model before purchasing.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decaf</s:tag>
+    <s:tag>K-Cup</s:tag>
+    <s:tag>Medium Dark Roast</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/287061297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227100681</id>
+    <published>2014-01-28T12:39:00-08:00</published>
+    <updated>2014-01-28T12:39:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/mezzanotte-decaf-blend"/>
+    <title>Mezzanotte Decaf Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU005a-Mezzanotte12oz_large_00ea26f0-a190-4dbd-9b59-ef004581fbb7.jpg?v=1617300466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            17.10 - 102.65
+            <a href="https://www.caffeumbria.ca/products/mezzanotte-decaf-blend">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Dark Roast - Decaffeinated | SUITABLE FOR ALL BREW METHODS</p>
+<p>This classic blending of fine Colombian and Costa Rican beans delivers full flavor with a touch of citrus. An authentic Italian coffee without the caffeine and great any time of the day. This coffee is versatile as both a flavorful espresso and drip coffee.</p>
+<p><em><span>*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">102.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">102.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/blogs/knowledge-center.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/blogs/knowledge-center.atom"/>
+  <title>Caffè Umbria Canada - Education</title>
+  <updated>2020-10-22T13:52:08-07:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/cold-brew-french-press-style-instructions</id>
+    <published>2020-10-22T13:52:08-07:00</published>
+    <updated>2020-10-22T14:21:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/cold-brew-french-press-style-instructions"/>
+    <title>Cold Brew (French Press Style) Instructions</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0332/7305/files/Cold_Brew_French_Press_3a7850c2-4b42-452a-acdb-55e911d2e47c.png?v=1603401626" style="float: none;"></div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/13886681-blend-and-preparation-method-recommendations</id>
+    <published>2014-04-24T12:20:40-07:00</published>
+    <updated>2014-04-24T12:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/13886681-blend-and-preparation-method-recommendations"/>
+    <title>Blend and Preparation Method Recommendations</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/0332/7305/files/blend_and_prep_1024x1024.PNG?3421" />]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/13886453-home-espresso-machine-instructions</id>
+    <published>2014-04-24T12:04:07-07:00</published>
+    <updated>2014-04-24T12:46:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/13886453-home-espresso-machine-instructions"/>
+    <title>Home Espresso Machine Instructions</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/0332/7305/files/espresso_1024x1024.PNG?3426" />]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/13886189-drip-coffee-instructions</id>
+    <published>2014-04-24T12:00:52-07:00</published>
+    <updated>2014-04-24T12:46:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/13886189-drip-coffee-instructions"/>
+    <title>Drip Coffee Instructions</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/0332/7305/files/drip_1024x1024.PNG?3425" />]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/13886089-moka-pot-instructions</id>
+    <published>2014-04-24T11:54:54-07:00</published>
+    <updated>2014-04-24T12:45:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/13886089-moka-pot-instructions"/>
+    <title>Moka Pot Instructions</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/0332/7305/files/moka_pot_1024x1024.PNG?3424" />]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/13886073-french-press-instructions</id>
+    <published>2014-04-24T11:52:23-07:00</published>
+    <updated>2014-04-24T13:08:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/13886073-french-press-instructions"/>
+    <title>French Press Instructions</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/0332/7305/files/french_press_1024x1024.PNG?3423" />]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/13886045-caffe-umbria-blends</id>
+    <published>2014-04-24T11:46:53-07:00</published>
+    <updated>2020-10-08T15:26:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/13886045-caffe-umbria-blends"/>
+    <title>Caffè Umbria Blends</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div style="text-align: start;"><img src="https://cdn.shopify.com/s/files/1/0332/7305/files/Blends.jpg?v=1602195956" alt="" style="float: none; display: block; margin-left: auto; margin-right: auto;"></div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/blogs/knowledge-center/13885973-the-four-m-s-of-coffee</id>
+    <published>2014-04-24T11:41:08-07:00</published>
+    <updated>2017-01-11T08:07:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/blogs/knowledge-center/13885973-the-four-m-s-of-coffee"/>
+    <title>The Four M’s of Coffee</title>
+    <author>
+      <name>Peter Lee</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/0332/7305/files/four_ms_1024x1024.PNG?3422">]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/coffee-blends.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2014-01-28T12:45:00-08:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227105961</id>
+    <published>2014-01-28T12:45:00-08:00</published>
+    <updated>2014-01-28T12:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/grifo-blend-medium-roast"/>
+    <title>Grifo Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU019a-Grifo12oz_large_0e20e332-aec8-4ab7-a798-50feebc910d0.jpg?v=1617299941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.50 - 99.00
+            <a href="https://www.caffeumbria.ca/products/grifo-blend-medium-roast">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Roast - Anniversary Blend | BEST SUITED FOR BREWED COFFEE</p>
+<p>A premium blend created by Master Roaster Emanuele Bizzarri in commemoration of our 10th anniversary. A careful blending of seven different coffee beans produces a complex coffee with intense flavor. We invite you to enjoy and experience "Il Gusto del Caffè".</p>
+<p><em><span>*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grifo</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227105961</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227105961</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227105961</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227105961</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227105961</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227105961</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227105961</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/2365741301839</id>
+    <published>2014-01-28T12:42:00-08:00</published>
+    <updated>2014-01-28T12:42:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/leone-blend"/>
+    <title>Leone Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/Leone_large_07f08199-deee-42c4-b4ba-5a71b387cc28.jpg?v=1617300259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            18.20 - 83.40
+            <a href="https://www.caffeumbria.ca/products/leone-blend">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Roast - Limited Edition Espresso Blend</p>
+<p>A limited edition espresso blend created for the contemporary coffee enthusiast. Made primarily of washed Ethiopian and South American coffees, this blend is roasted light to complement notes of apricot, brown sugar, vanilla and huckleberry.</p>
+<p><em><span>*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/2365741301839</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/2365741301839</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/2365741301839</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/2365741301839</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">83.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/2365741301839</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">83.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/2365741301839</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/2365741301839</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227103845</id>
+    <published>2014-01-28T12:42:00-08:00</published>
+    <updated>2014-01-28T12:42:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/terra-sana-blend"/>
+    <title>Terra Sana Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU002a-Terra12oz_large_29586614-2e2b-4e4a-ab2c-4f71ed346fe7.jpg?v=1617300537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            18.20 - 111.20
+            <a href="https://www.caffeumbria.ca/products/terra-sana-blend">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Roast - 100% Certified Organic | SUITABLE FOR ALL BREW METHODS</p>
+<p>Grown by smallholder cooperative farmers in Peru, Mexico &amp; East Timor it is artfully blended to balance the crisp apple-like acidity with deeper cocoa notes.</p>
+<p><em><span>*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fair Trade</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Terra Sana</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227103845</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227103845</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227103845</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227103845</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">111.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227103845</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">111.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227103845</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227103845</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">18.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227100681</id>
+    <published>2014-01-28T12:39:00-08:00</published>
+    <updated>2014-01-28T12:39:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/mezzanotte-decaf-blend"/>
+    <title>Mezzanotte Decaf Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU005a-Mezzanotte12oz_large_00ea26f0-a190-4dbd-9b59-ef004581fbb7.jpg?v=1617300466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            17.10 - 102.65
+            <a href="https://www.caffeumbria.ca/products/mezzanotte-decaf-blend">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Dark Roast - Decaffeinated | SUITABLE FOR ALL BREW METHODS</p>
+<p>This classic blending of fine Colombian and Costa Rican beans delivers full flavor with a touch of citrus. An authentic Italian coffee without the caffeine and great any time of the day. This coffee is versatile as both a flavorful espresso and drip coffee.</p>
+<p><em><span>*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">102.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">102.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227100681</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/227096197</id>
+    <published>2014-01-28T12:32:00-08:00</published>
+    <updated>2014-01-28T12:32:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/arco-etrusco-blend"/>
+    <title>Arco Etrusco Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU004a-Arco12oz_large_99fe05a0-9fe2-4aa6-842b-c3fb8c349564.jpg?v=1617299757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.50 - 99.00
+            <a href="https://www.caffeumbria.ca/products/arco-etrusco-blend">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark Roast - Heritage Blend | BEST SUITED FOR BREW COFFEE</p>
+<p>Our boldest blend offers a supple, full-flavored fusion of the finest coffees from South and Central America. Roasted darker to caramelize the flavors and impart a rich, natural sweetness. Named for the famous arched entry to the Umbrian town of Perugia, Arco Etrusco is roasted specifically for drip coffee preparation, but is also great in a French press.</p>
+<p><em><span style="line-height: 1.2;">*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arco</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/227096197</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/204116365</id>
+    <published>2014-01-03T10:33:00-08:00</published>
+    <updated>2014-01-03T10:33:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/bizzari"/>
+    <title>Bizzarri Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU003a-Bizzarri12oz_large_0da8e24f-0b8b-47b0-8bea-5273ef78c4d9.jpg?v=1617299876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.50 - 99.00
+            <a href="https://www.caffeumbria.ca/products/bizzari">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.2;">Medium Dark Roast - Signature Blend | FOR ESPRESSO OR BREWED COFFEE</span></p>
+<p>This signature blend is a celebration of our Italian blending expertise. Beans from Africa and Central America create the complexity of this elegant and versatile blend, perfect as an espresso and for milk based drinks. Also recommended as an all-day brewed coffee with its rich complexity and lingering finish.</p>
+<p><em><span>*Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bizzari</s:tag>
+    <s:tag>Medium Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204116365</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/204090981</id>
+    <published>2014-01-03T09:24:00-08:00</published>
+    <updated>2014-01-03T09:24:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/gusto-creama"/>
+    <title>Gusto Crema Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/CU001a-Gusto12oz_large_f72ebb6c-92a3-4001-a6e0-360410c59e6f.jpg?v=1617300006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.50 - 99.00
+            <a href="https://www.caffeumbria.ca/products/gusto-creama">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Roast - Classic Espresso | CLASSIC ITALIAN ESPRESSO</p>
+<p>The perfect espresso blend producing a thick golden crema and a rich, distinctly Italian flavor profile. The blending of Brazilian and Central American beans gives this coffee a fragrant aroma and sweet finish. Also excellent as a mild to medium bodied brewed coffee.</p>
+<p><em>*<em><span>Please note that special grinds (i.e. percolator &amp; french press) may take longer to ship</span></em></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gusto</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Whole Bean</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Drip Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>5 lb. / Whole Bean</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Espresso Grind</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>5 lb. / Drip Grind</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / Percolator</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/204090981</id>
+      <title>12 oz. / French Press</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.caffeumbria.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.caffeumbria.ca/collections/portion-pack-1.atom"/>
+  <title>Caffè Umbria Canada</title>
+  <updated>2020-12-23T15:15:46-08:00</updated>
+  <author>
+    <name>Caffè Umbria Canada</name>
+  </author>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4849003561039</id>
+    <published>2020-12-23T15:15:46-08:00</published>
+    <updated>2020-12-23T15:15:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/mezzanotte-decaf-blend-case-of-20-5-cup-drip-coffee-4-cup-french-press-portion-pack"/>
+    <title>Mezzanotte Decaf Blend - Case of (20) 5-Cup Drip Coffee / 4-Cup French Press Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PP-DecafEdited.jpg?v=1608827506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            27.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Medium Dark Roast</span></p>
+<p><span>Our coffee portion pack will brew 5 cups of drip coffee or 4 cups French press.</span></p>
+<p><span>Each case contains 20 one-ounce portion packs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4849003561039</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545143275599</id>
+    <published>2020-04-15T09:33:12-07:00</published>
+    <updated>2020-04-15T09:33:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/mezzanotte-blend-portion-pack"/>
+    <title>Mezzanotte Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PP-Decaf_1000x_1bc0cfb8-f8c2-4081-b754-c13335c9ef92.jpg?v=1586968409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            32.51 - 97.52
+            <a href="https://www.caffeumbria.ca/products/mezzanotte-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case). Each portion pack makes 12 cups of coffee.</p>
+<p><strong>BLEND NOTES: </strong><br></p>
+<p><span>In Italian, </span><em>mezzanotte</em><span> means “midnight”.This creamy-bodied decaffeinated coffee possesses low acidity, notes of milk chocolate and nut with hints of black tea. We savor this coffee “</span><em>con il dolce</em><span>”, steeped in a french press then paired with complementary flavors of chocolate or hazelnut.</span></p>
+<p><span><strong>Characteristics:</strong> Smooth | Milk Chocolate | Hazelnut | Black Tea<br></span></p>
+<p><span><strong>Primary Origins:</strong> Colombia | Costa Rica</span></p>
+<p><strong>Roast Level</strong>: <span>Medium-Dark Roast</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Mezzanotte</s:tag>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545143275599</id>
+      <title>12ct</title>
+      <s:price currency="CAD">32.51</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545143275599</id>
+      <title>36ct</title>
+      <s:price currency="CAD">97.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545141538895</id>
+    <published>2020-04-15T09:31:57-07:00</published>
+    <updated>2020-04-15T09:31:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/arco-etrusco-blend-portion-pack"/>
+    <title>Arco Etrusco Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_427c817c-4b52-42a4-96b8-2503ed84c399.jpg?v=1586968318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            31.45 - 94.25
+            <a href="https://www.caffeumbria.ca/products/arco-etrusco-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case). Each portion pack makes 12 cups of coffee.</p>
+<p> <strong>BLEND NOTES: </strong></p>
+<p><span>Named after the iconic arched entry to the Umbrian town of Perugia, Arco Etrusco is the darkest of our blends. Natural sugars found in the coffees caramelize when roasted to this depth, imparting a cane sugar sweetness and aroma. Created as a drip coffee this blend boasts a fudge-like body, low acidity, a persistent roasty aftertaste and characteristics of a sweet stout.</span></p>
+<p><span><strong>Characteristics:</strong> Sweet | Fudge | Cane Sugar | Smokey<br></span></p>
+<p><span><strong>Primary Origins:</strong> Brazil | Colombia | Mexico</span></p>
+<p><strong>Roast Level</strong>: <span>Dark Roast</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545141538895</id>
+      <title>12ct</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545141538895</id>
+      <title>36ct</title>
+      <s:price currency="CAD">94.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545136263247</id>
+    <published>2020-04-15T09:28:19-07:00</published>
+    <updated>2020-04-15T09:28:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/bizzarri-blend-portion-pack"/>
+    <title>Bizzarri Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_a41285e1-0799-43f3-952e-376ce07ce818.jpg?v=1586968100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            31.45 - 94.25
+            <a href="https://www.caffeumbria.ca/products/bizzarri-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case).  Each portion pack makes 12 cups of coffee.</p>
+<p> <strong>BLEND NOTES: </strong></p>
+<p><span>This blend was crafted to pair uniquely with the sweet characteristics of milk and cream.  A resonant body and deep fruity acidity helps this coffee stay structured when sipped “con latte”.  Taste molasses, pecan and hints of banana in this Golden Bean North America medal-winning coffee.  We love this blend for its versatility so brew in the style of your preference.</span></p>
+<p><span><strong>Characteristics:</strong> Harmonious | Molasses | Pecan | Banana<br></span></p>
+<p><span><strong>Primary Origins:</strong> Peru | El Salvador | Uganda</span></p>
+<p><strong>Roast Level</strong>: Medium-Dark Roast</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545136263247</id>
+      <title>12ct</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545136263247</id>
+      <title>36ct</title>
+      <s:price currency="CAD">94.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2296</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4545128595535</id>
+    <published>2020-04-15T09:19:27-07:00</published>
+    <updated>2020-04-15T09:19:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/gusto-crema-blend-portion-pack"/>
+    <title>Gusto Crema Blend - Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_359be68d-6477-4ae3-816b-f5744b878e8b.jpg?v=1586967781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            31.45 - 94.25
+            <a href="https://www.caffeumbria.ca/products/gusto-crema-blend-portion-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For office &amp; home office use, our portion packs offer convenience and ease in a tear and pour pouch.<br></p>
+<p>2.25 ounce Nitrogen-flushed filter ground coffee (per case).  Each portion pack makes 12 cups of coffee.</p>
+<p><strong>BLEND NOTES: </strong></p>
+<p><em>Un espresso perfetto.</em> Defined by a creamy body and delightful sweetness that lasts through the finish. Find milk chocolate and dried fig notes in this rounded and subtly complex coffee. This blend typifies the style of coffee roasted for generations by the Bizzarri family and is the featured espresso at Caffè Umbria cafés. Brewed drip-style it smooths to a rich and refined cup.</p>
+<p><strong>Characteristics:</strong> Creamy | Milk Chocolate | Cream | Dried Fig</p>
+<p><strong>Primary Origins:</strong> Brazil | Colombia | Guatemala</p>
+<p><strong>Roast Level</strong>: Medium Roast</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545128595535</id>
+      <title>12ct</title>
+      <s:price currency="CAD">31.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4545128595535</id>
+      <title>36ct</title>
+      <s:price currency="CAD">94.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.caffeumbria.ca/products/4500035436623</id>
+    <published>2020-03-16T13:33:09-07:00</published>
+    <updated>2020-03-16T13:33:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.caffeumbria.ca/products/bizzarri-blend-case-of-20-5-cup-drip-coffee-4-cup-french-press-portion-pack"/>
+    <title>Bizzarri Blend - Case of (20) 5-Cup Drip Coffee / 4-Cup French Press Portion Pack</title>
+    <s:type>Coffee Pods</s:type>
+    <s:vendor>Caffe Umbria Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0332/7305/products/PortionPack_1000x_6aca102f-1662-4ba5-94cb-d17f6b9a5228.jpg?v=1596052619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caffe Umbria Canada<br>
+        <strong>Type: </strong>Coffee Pods<br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Medium Dark Roast</span></p>
+<p><span>Our coffee portion pack will brew 5 cups of drip coffee or 4 cups French press.</span></p>
+<p><span>Each case contains 20 one-ounce portion packs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.caffeumbria.ca/products/4500035436623</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
